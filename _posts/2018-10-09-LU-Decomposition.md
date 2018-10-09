@@ -15,4 +15,4 @@ tags:
 在看到第四节LU分解的部分，有些没明白。于是找到了Gilbert Stang的教材Introduction to linear algebra，思考了一下。目前还不会在博客里使用latex，所以偷懒，直接拍照📷上传。
 
 # 正文（图）
-![LU-Decom](img/LU-Decom.jpg)
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fw1qf25dj9j31kw16ohdv.jpg)
