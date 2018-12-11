@@ -39,3 +39,9 @@ tags:
 ## Nth Largest Value
 
 * sort函数
+
+# 12.10
+
+## 特殊的子集
+
+考虑递归
