@@ -2,7 +2,7 @@
 layout:     post
 title:      “格拉姆施密特正交化与QR分解与解线性方程组”
 subtitle:    "三人行，必有我师焉"
-date:       2019-02-24
+date:       2019-03-09
 author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
