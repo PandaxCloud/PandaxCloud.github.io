@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Matrix
+    - Math
 ---
 
 把这一篇归为"Matrix"的原因，是我想到矩阵和映射挂钩，而映射不仅仅有线性的吧。感觉以后要老和矩阵打交道，所以这一篇作为成长记录好了👌
