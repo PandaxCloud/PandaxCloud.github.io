@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Linear Algebra
+    - Math
 ---
 
 最近几天我都在bilibili上加急看MIT公开课线性代数，[MIT公开课 线性代数](https://www.bilibili.com/video/av3652052/?p=1)。PS.真的感谢字幕组，谢谢你们！就在刚刚终于看完了（跳过了部分应用性较强的内容），真的有种醍醐灌顶的恍然大悟。因为自己之前看到矩阵就脑壳疼，觉得那么大一坨，进行一些奇奇怪怪骚里骚气的运算，就有一些很巧妙的结果，但我就是没法get到它的essences.现在总结一些感悟:
