@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Linear Algebra
+    - Math
 ---
 
 ![](https://ws2.sinaimg.cn/large/006tKfTcgy1g0wxlgaj8mj31400u0hdv.jpg)
