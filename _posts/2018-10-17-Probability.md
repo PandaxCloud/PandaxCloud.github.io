@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Probability
+    - Math
 ---
 
 高斯-马尔可夫定理：在线性回归模型中，如果误差满足零均值、同方差且互不相关，则回归系数的最佳线性无偏估计(BLUE, Best Linear unbiased estimator)就是普通最小二乘法估计。
