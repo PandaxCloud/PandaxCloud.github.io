@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Computer
+    - Computer Science
 ---
 
 # 12.09
