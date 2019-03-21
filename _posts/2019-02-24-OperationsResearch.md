@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Operations Research
+    - Math
 ---
 
 线性规划问题的标准形式(对于不满足的，根据5条准则，可化为标准形式)
