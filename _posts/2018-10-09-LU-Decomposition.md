@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Linear Algebra
+    - Math
 ---
 
 # 说在前面
