@@ -7,7 +7,7 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Regression Analysis
+    - Statistics
 ---
 
 ![](https://ws3.sinaimg.cn/large/006tNbRwly1fw42yb5u39j31kw16ohdv.jpg)
