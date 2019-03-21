@@ -7,7 +7,9 @@ author:     Chris
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - Regression Analysis
+    - Statistics
 ---
 
 待完善
+
+注意general linear regression和generalized linear regression的区别
