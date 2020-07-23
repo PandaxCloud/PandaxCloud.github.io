@@ -10,4 +10,4 @@ tags:
     - Statistics
 ---
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fw42yb5u39j31kw16ohdv.jpg)
+![](http://tva2.sinaimg.com/large/006tNbRwly1fw42yb5u39j31kw16ohdv.jpg)
