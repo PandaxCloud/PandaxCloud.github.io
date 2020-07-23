@@ -10,4 +10,4 @@ tags:
     - Math
 ---
 
-![](https://ws2.sinaimg.cn/large/006tKfTcgy1g0wxlgaj8mj31400u0hdv.jpg)
+![](https://tva2.sinaimg.com/large/006tKfTcgy1g0wxlgaj8mj31400u0hdv.jpg)
